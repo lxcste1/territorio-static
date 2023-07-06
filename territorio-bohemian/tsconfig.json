@@ -38,7 +38,7 @@
     "src/constants/svg/closeMenu.js",
     "src/components/HomeTitle/HomeTitle.jsx",
     "src/components/InfoCard/InfoCard.jsx"
-  ],
+, "src/app/servicios/page.jsx"  ],
   "exclude": [
     "node_modules"
   ]
