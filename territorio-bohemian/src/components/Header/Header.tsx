@@ -19,11 +19,11 @@ export default function Header() {
       <div className={`max-w-6xl px-4 md:px-0 mx-auto flex justify-between items-center h-20`}>
         <div>
           <Link href="/" className={`flex items-center`}>
-            <img
+            <Image
               alt=""
-              src="https://via.placeholder.com/50x50"
-              width="50"
-              height="50"
+              src={`/assets/50x50.png`}
+              width={50}
+              height={50}
               className={`rounded-full`}
             />
             <p className={`font-bold text-2xl px-2`}>Territorio Bohemian</p>
