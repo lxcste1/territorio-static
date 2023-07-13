@@ -30,7 +30,7 @@ const SectionCard = () => {
         <Link 
         key={item.title}
         href={item.url}
-        className={`border-2 border-[#C1AC99]`}
+        className={`border-2 border-[#C1AC99] my-4`}
         >
           <Image
             src={item.imageMobile}

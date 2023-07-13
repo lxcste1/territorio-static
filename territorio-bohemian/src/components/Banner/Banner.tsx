@@ -12,7 +12,7 @@ export default function Banner() {
                 alt={`Banner principal desktop`}
                 width={1920}
                 height={600}
-                className={`md:block hidden`}
+                className={`md:block hidden m-auto`}
             />
             <Image
                 src={BannerMobile}
