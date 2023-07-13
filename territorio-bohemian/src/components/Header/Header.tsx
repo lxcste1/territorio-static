@@ -25,6 +25,7 @@ export default function Header() {
               width={50}
               height={50}
               className={`rounded-full`}
+              priority={true}
             />
             <p className={`font-bold text-2xl px-2`}>Territorio Bohemian</p>
           </Link>
@@ -37,12 +38,14 @@ export default function Header() {
                 alt={`Cerrar menú`}
                 width={30}
                 height={30}
+                priority={true}
               /> :
               <Image
                 src={openMenu}
                 alt={`Abrir menú`}
                 width={30}
                 height={30}
+                priority={true}
               />}
           </button>
         </div>

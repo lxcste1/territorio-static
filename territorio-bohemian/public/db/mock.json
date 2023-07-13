@@ -8,6 +8,7 @@
                 {
                     "id": 1,
                     "name": "Esmaltado semipermanente",
+                    "slug":"esmaltado-semipermanente-p",
                     "description": "- Uñas impecables por hasta 15 días\n- El esmalte queda automáticamente seco al finalizar el servicio\n- Brillo intenso en el esmaltado",
                     "price": 1900,
                     "details": "Es un esmaltado de secado inmediato y de larga duración",
@@ -29,6 +30,7 @@
                 {
                     "id": 2,
                     "name": "Kapping",
+                    "slug":"kapping-p",
                     "description": "- Otorga dureza por lo que sirve para proteger a la uña mientras crece, está especialmente indicado para uñas con tendencia a romperse\n- Uñas protegidas por hasta 21 días\n- Se puede realizar service dependiendo del producto empleado en el servicio\n- No alarga la uña natural, sino que se aplica sobre el largo existente",
                     "price": 1900,
                     "details": "Es una capa delgada de gel que protege y acompaña el crecimiento de la uña natural",
@@ -50,6 +52,7 @@
                 {
                     "id": 3,
                     "name": "Soft gel",
+                    "slug":"soft-gel-p",
                     "description": "- Uñas largas automáticamente, sin recurrir a moldes o esculpido\n- Posibilidad de cambiar largo y formato de la uña de un servicio a otro\n- Si la cliente desea realizarse un diseño complejo, podemos preparar el set con antelación (PRESET)",
                     "price": 1900,
                     "details": "Sistema de extensión de uñas mediante tips de gel que son aplicados sobre la uña natural",
@@ -78,6 +81,7 @@
                 {
                     "id": 1,
                     "name": "Reflexología",
+                    "slug":"reflexologia-p",
                     "description": "La reflexología es una técnica milenaria que consiste en masajear los pies con el fin de estimular puntos reflejos que se encuentran en ellos y que están relacionados con los órganos y sus funciones fisiológicas.\nSe identifica estas zonas reflejas para ayudar al paciente a alcanzar su equilibrio natural. La reflexología bien aplicada produce un aumento en las secreciones fisiológicas. Ayudando por tanto a la desintoxicación del organismo, se observa una mejoría del sueño y un alivio a los dolores.\nTiene sus precauciones. La sesión abarca: mapa reflexógeno del pie, zonas del cuerpo, anatomía del pie, anatomía del sistema nervioso, órganos de los sentidos, articulaciones, sistema endocrino, sistema circulatorio, aparato digestivo, respiratorio, sistema urinario, sistema linfático, aparato genital.\nPuede ayudar a varias Afecciones en cada persona. También se puede realizar en Zonas reflejas de las manos, zona refleja del rostro",
                     "price": 1900,
                     "details": null,
@@ -99,6 +103,7 @@
                 {
                     "id": 2,
                     "name": "Masaje armonizante",
+                    "slug":"masaje-armonizante-p",
                     "description": "combinación de 3 técnicas, esferas ying-yang, cañas y masajes manuales Es una de las técnicas en masajes más completa ya que trabaja a nivel integral contracturas y diversas estados emocionales y afecciones que nos afectan.\nEntre ellas tenemos: dolores musculares, insomnio, nerviosismo, migrañas, dorsalgia, lumbalgia, ciatalgia, nervio ciático. Para ellos se realiza un tratamiento personalizado en base a afecciones, dolencias o situaciones de salud individuales del paciente.\nEntre los beneficios de ésta técnica podemos encontrar: Reduce la tensión muscular Alivia el estrés Mejora la circulación sanguínea Mejora la movilidad de las articulaciones Reduce el dolor muscular Agiliza la curación de tejidos blandos Aumenta la función inmune Beneficia la actividad mental Promueve el bienestar físico, mental y emocional Promueve la relajación",
                     "price": 1900,
                     "details": null,
@@ -120,6 +125,7 @@
                 {
                     "id": 3,
                     "name": "Masaje relajante",
+                    "slug":"masaje-relajante-p",
                     "description": "- Es el típico masaje para eliminar estrés y tensión de un día duro de trabajo \n- Relaja el cuerpo y la mente, promoviendo la respiración profunda y eliminando el sentimiento de ansiedad \n- Reduce y elimina dolores musculares, como nudos, tirones o contracturas \n- Fortalece la circulación sanguínea, aumentando así el aporte de oxígeno en los órganos y tejidos \n- Mejora el sistema nervioso \n- Crea un sentimiento de bienestar \n - Ayuda a la eliminación de toxinas y células muertas \n- Recobra energía y cansancio acumulado \n- Contribuye a la digestión de nutrientes y eliminación de desechos \n- Aumenta las defensas naturales \n- Estimula el apetito sexual \n- Mejora la autoestima y la energía vital",
                     "price": 1900,
                     "details": null,
@@ -141,6 +147,7 @@
                 {
                     "id": 4,
                     "name": "Masaje descontracturante",
+                    "slug":"masaje-descontracturante-p",
                     "description": "Se utiliza para relajar los músculos con el fin de aliviar las tensiones que pueden producir en ellos el estrés, la falta de descanso o las malas posturas. Este masaje es altamente recomendado para aquellas personas que, por un exceso de ejercicio físico, hayan podido contraer algún músculo y para aquellas otras personas que, por un estilo de vida sedentario, fuerzan ciertas posturas o adoptan otras poco convenientes",
                     "price": 1900,
                     "details": null,
@@ -162,6 +169,7 @@
                 {
                     "id": 5,
                     "name": "Tui-Na",
+                    "slug":"tui-na-p",
                     "description": "La Tui-Na, al igual que la acupuntura y la fitoterapia, es una de las técnicas manipulativas más antiguas procedentes de China de las que tenemos conocimiento, y se lleva utilizando desde hace más de 2.000 años Sus movimientos son más vigorosos que en otras técnicas de masaje y sus beneficios van mucho más allá de la relajación de la musculatura tensa. Mucho más que un masaje, la Tui-Na busca estimular la propia capacidad de recuperación del cuerpo. La intención de Tui Na va más allá de la relajación que nos ofrece por ejemplo el tradicional masaje sueco, si no que su enfoque es más profundo, consiguiendo efectos que van desde el exterior del organismo al interior del mismo, por lo que restablece el equilibrio tanto psicológico como físico y energético. Se trata de aliviar al usuario de forma rápida y procurándole el menor sufrimiento posible, aportándole de esta forma bienestar. Por otra parte, Tui Na pretende prevenir y calmar a la vez, ya que ha sido diseñado para evitar dolencias, no solo para corregirlas, por lo que en el caso del cuello, Tui-Na ayudará a prevenir ciertas dolencias asociadas como la rigidez o los mareos provocados por las cervicales. Terminando con reiki",
                     "price": 1900,
                     "details": null,
@@ -183,6 +191,7 @@
                 {
                     "id": 6,
                     "name": "Masaje anti estrés",
+                    "slug":"masaje-anti-estres-p",
                     "description": "- Este masaje el tratamiento más adecuado contra el estrés. Es por tanto una solución inmediata, ya que trabaja la musculatura de una manera profunda y lenta, devolviendo al cuerpo equilibrio y bienestar \n- Ahora tenemos algunos beneficios del masaje anti estrés: \n* Profunda relajación \n* Liberación de la tensión muscular \n* Liberación de la tensión mental \n* Recuperación del equilibrio general \n* Sensación de descanso",
                     "price": 1900,
                     "details": null,
@@ -204,6 +213,7 @@
                 {
                     "id": 7,
                     "name": "Drenaje linfático",
+                    "slug":"drenaje-linfatico-p",
                     "description": "- El drenaje linfático consiste en un masaje con movimientos suaves, el cual es mantenido a un ritmo lento para evitar la rotura de los vasos linfáticos. Este tiene como objetivo estimular y facilitar el paso de la linfa por el sistema circulatorio \n- La linfa es un líquido que circula por el cuerpo y limpia la sangre de impurezas, desempeñando su papel inmunitario junto con los anticuerpos de la sangre; no obstante, la linfa puede acumularse en exceso en los tejidos, pudiendo causar en ciertos casos hinchazón y dolor \n- Así, al estimular y mejorar la circulación, el drenaje linfático garantiza varios beneficios para la salud, como disminución de la inflamación y de las celulitis, ademas de mejorar el proceso de circulación, por ejemplo. Los principales beneficios del drenaje linfático son: \n* 1. Combatir la hinchazón \n- El drenaje linfático favorece a la reducción de la hinchazón y de la retención de líquidos, pues a través de los masajes ayuda a drenar líquidos y toxinas hasta los ganglios linfáticos, facilitando su eliminación \n* 2. Combatir la celulitis \n- Puesto que la retención de líquidos contribuye a la formación de celulitis, al promover la eliminación de los líquidos es posible combatir también esta condición. No obstante, es recomendado asociar otros métodos para que su eliminación sea más eficaz \n* 3. Ayudar a la recuperación de lesiones \n- El drenaje linfático contribuye a la recuperación de lesiones musculares y articulares, pues favorece la tonificación de los músculos y promueve la oxigenación de los tejidos \n* 4. Favorecer la cicatrización \n- El drenaje linfático ayuda a reducir el edema y a mejorar la irrigación sanguínea, lo que contribuye a una cicatrización más rápida de los tejidos \n* 5. Reducir hematomas \n- Además de acelerar la cicatrización, la reducción del edema y el aumento de la circulación sanguínea promovidos por el drenaje linfático contribuyen a reducir hematomas \n* 6. Mejorar la circulación sanguínea \n- El drenaje linfático estimula la microcirculación y reduce la hinchazón, lo que contribuye a mejorar la circulación sanguínea, reduciendo la sensación de piernas pesadas y evitando el surgimiento de arañas vasculares \n* 7. Oxigenar los tejidos \n- La activación de la microcirculación y la eliminación de líquidos promovida por el drenaje linfático contribuye a una oxigenación más eficiente de los tejidos, puesto que el oxígeno llega de forma más fácil a las células \n* 8. Eliminar toxinas \n- El sistema linfático ayuda al organismo a eliminar toxinas, por lo que el drenaje linfático, al promover el transporte de los líquidos hacia los ganglios linfáticos, hace que este proceso sea más eficaz \n* 9. Mejorar la autoestima \n- Al reducir la retención de líquidos, el drenaje linfático ayuda a moldear el cuerpo, haciendo que la persona sienta más confianza con su cuerpo y mejorando la autoestima y la calidad de vida \n* 10. Prevenir adherencias de cicatrices después de una cirugía plástica \n- El drenaje linfático favorece a la regeneración organizada de las fibras, evitando que la cicatriz se adhiera \n- Este tratamiento debe ser aplicado por un profesional competente que sepa ejecutar las técnicas de forma correcta. Las maniobras que pueden ser usadas incluyen: movimientos circulatorios con los dedos, círculos con el pulgar, presión y deslizamiento en forma de brazalete o movimientos de bombeo. El drenaje puede ser realizado en todo el cuerpo o solo en un área de tratamiento, dependiendo de la necesidad que la persona presente",
                     "price": 1900,
                     "details": null,
