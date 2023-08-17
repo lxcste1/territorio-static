@@ -3,6 +3,8 @@ import Link from "next/link";
 
 const ProductCard = (product) => {
 
+    const categorySlug = product.category;
+
     return (
         <>
             {
@@ -14,7 +16,7 @@ const ProductCard = (product) => {
                     const details = e.details;
 
                     return (
-                        <Link href={`servicios/${productLink}?productId=${e.id}`} key={productLink} className={`my-1`}>
+                        <Link href={`servicios/${categorySlug}/${productLink}?product=${e}`} key={productLink} className={`my-1`}>
                             <div className={`w-80 border-2 border-[#C1AC99]`}>
                                 <Image src={`${productImg}`} alt="Logo del producto" width={400} height={400} priority={true}/>
                                 <div>
